@@ -1,5 +1,5 @@
 # 2023_nycu_ML
-Intro_to_ML\
+Intro_to_Machine_Learning\
 2023 Fall, by prof. 林彥宇
 
 ### Labs
